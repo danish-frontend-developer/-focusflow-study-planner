@@ -1,33 +1,41 @@
-# FocusFlow — Study Planner
 
-A responsive study-planning dashboard built with **HTML, CSS, and vanilla JavaScript**.
+# FocusFlow — Smart Study Planner 📚
 
-## Features
-- Add tasks with High, Medium, or Low priority
-- Mark tasks as complete and delete tasks
-- Filter tasks by All, In progress, and Completed
+A responsive study planner that helps students organize tasks, track progress, and focus better with a built-in timer. Built using HTML, CSS, and vanilla JavaScript.
+
+🌐 **[View Live Website](https://danish-frontend-developer.github.io/-focusflow-study-planner/)**
+
+## ✨ Features
+
+- Add study tasks with High, Medium, and Low priorities
+- Mark tasks as completed or delete them
+- Filter tasks by All, In Progress, and Completed
 - Clear completed tasks
-- Pomodoro-style focus timer with 25, 15, and 5 minute presets
-- Progress statistics that update automatically
+- Built-in focus timer with 25, 15, and 5-minute presets
+- Automatic progress statistics
 - Light and dark theme toggle
-- Responsive layout for desktop, tablet, and mobile
-- Accessible labels and basic input escaping
+- Responsive design for desktop, tablet, and mobile
+- Accessible labels and safe text rendering
 
-## Run locally
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
+## 🛠️ Technologies Used
 
-No build tools or dependencies are required. Google Fonts are loaded online; the app itself works without a backend.
+- HTML5
+- CSS3
+- JavaScript
+- CSS Grid and Flexbox
+- DOM Manipulation
+- Browser-based application state
 
-## Publish with GitHub Pages
-1. Create a new public repository on GitHub, for example `focusflow-study-planner`.
-2. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch `main` and folder `/ (root)`, then click **Save**.
-6. Wait a few minutes and open the URL GitHub Pages provides.
+## 🚀 Run Locally
 
-## Project structure
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+
+No dependencies or build tools are required.
+
+## 📂 Project Structure
+
 ```text
 focusflow-study-planner/
 ├── index.html
@@ -36,10 +44,24 @@ focusflow-study-planner/
 └── README.md
 ```
 
-## What I learned
-- Responsive layouts with CSS Grid and Flexbox
-- DOM selection and event delegation
-- Managing application state in JavaScript
+## 🔗 Project Links
+
+- **Live Demo:** https://danish-frontend-developer.github.io/-focusflow-study-planner/
+- **GitHub Repository:** https://github.com/danish-frontend-developer/-focusflow-study-planner
+
+## 📖 What I Learned
+
+- Building responsive layouts with CSS Grid and Flexbox
+- DOM manipulation and event handling
+- Managing application state with JavaScript
 - Form validation and safe text rendering
-- SVG progress rings and timer intervals
-- Theme switching and accessible UI patterns
+- Creating timers and progress indicators
+- Implementing theme switching and accessible UI patterns
+
+## 👨‍💻 Developer
+
+**Md Danish Alam**
+
+- GitHub: https://github.com/danish-frontend-developer
+- LinkedIn: https://www.linkedin.com/in/md-danish-alam-935b29326/
+
